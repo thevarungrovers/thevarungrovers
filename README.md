@@ -20,10 +20,6 @@
 - Collaborating with teams to deliver efficient, user-friendly web solutions
 - Managing projects from concept to deployment
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevarungrovers&show_icons=true&locale=en&layout=compact" alt="thevarungrovers" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevarungrovers&show_icons=true&locale=en" alt="thevarungrovers" /></p>
-
 <a href="https://www.buymeacoffee.com/thevarungrovers" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important; margin:10px;" ></a>
 
 ## 📫 Let's Connect!
